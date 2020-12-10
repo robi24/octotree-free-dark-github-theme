@@ -1,0 +1,29 @@
+.octotree-views {
+    background: rgb(13, 17, 23) !important;
+}
+
+.ui-resizable-handle ui-resizable-e {
+    background: rgb(13, 17, 23) !important;
+    opacity: 0.6 !important;
+}
+
+.octotree-sidebar.octotree-github-sidebar .octotree-views .octotree-tree-view .jstree-anchor div {
+    color: rgb(201, 209, 217) !important;
+}
+
+.octotree-sidebar.octotree-github-sidebar .octotree-views .octotree-tree-view .jstree-default .jstree-wholerow-clicked {
+    background: rgba(187,128,9,0.1) !important;
+	box-shadow: inset 2px 0 0 #bb8009 !important;
+}
+
+.octotree-sidebar.octotree-github-sidebar .octotree-views .octotree-tree-view .jstree-anchor .jstree-clicked > div {
+    color: rgb(165, 214, 255) !important;
+}
+
+.octotree-sidebar.octotree-github-sidebar .octotree-views .octotree-tree-view .jstree-default .jstree-wholerow-hovered {
+    background: #161b22 !important;
+}
+
+.octotree-icon-file::before {
+    color: #6a737d !important;
+}
